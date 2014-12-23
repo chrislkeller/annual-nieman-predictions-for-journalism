@@ -1,21 +1,14 @@
 # -*- coding: utf-8 -*-
 
-import logging
 import re
 import requests
 from BeautifulSoup import BeautifulSoup
-
-logger = logging.getLogger("root")
-logging.basicConfig(
-    format = "\033[1;36m%(levelname)s: %(filename)s (def %(funcName)s %(lineno)s): \033[1;37m %(message)s",
-    level=logging.DEBUG
-)
 
 class Scraper(object):
     """ # """
 
     headers = {
-        "User-agent": "KPCC - Southern California Public Radio (ckeller@scpr.org)"
+        "User-agent": ""
     }
 
     live_html = "http://www.niemanlab.org/collection/predictions-2015/"
