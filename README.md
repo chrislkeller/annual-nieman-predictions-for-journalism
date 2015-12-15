@@ -21,7 +21,7 @@ Here's how I loaded the HTML file into Instapaper. Your mileage with other "read
 * On a *nix machine, open your command line program of choice and ```cd``` to the location where you saved the ```index.html``` file. In this example it would be ```cd ~/Desktop```
 * Assuming you have Python installed, start the the local webserver by entering the following into the terminal: ```python -m SimpleHTTPServer 8880```
 * Open a browser and navigate to ```http://127.0.0.1:8880/```.
-* There you will find the article of articles. I used the Instapaper bookmarklet to pull the content down and save for later.
+* There you will find the article of articles. I used the [Instapaper bookmarklet](https://www.instapaper.com/save) to pull the content down and save for later.
 
 **Scraper**
 
