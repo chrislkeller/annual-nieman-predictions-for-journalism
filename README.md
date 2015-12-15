@@ -1,15 +1,13 @@
-Nieman Lab Predictions for Journalism 2015
-==========================================
+Nieman Lab Predictions for Journalism
+======================================
 
-As has become tradition, Nieman Lab this year [posted predictions and thoughts](http://www.niemanlab.org/collection/predictions-2015/) from those in and around the news business in an attempt to foreshadown ways the way we report, deliver and present news will change in 2015.
+As has become tradition, Nieman Lab this year [posted predictions and thoughts](http://www.niemanlab.org/collection/predictions-2015/) from those in and around the news business in an attempt to foreshadown ways the way we report, deliver and present news will change.
 
-In all, 65 different pieces were posted.
-
-I wanted to read them all - eventually - but I did not want to open each link and save the article to [Instapaper](https://www.instapaper.com/). So I wrote a little program to pull the content down combine the articles into one HTML file that I could save for later.
+If you're like me, you want to read them all - eventually. But I did not want to open each link and save the article to [Instapaper](https://www.instapaper.com/). So I wrote a little program to pull the content down combine the articles into one HTML file that I could save for later.
 
 It's not perfect - some accents in names and punctuation characters weren't deciphered - but the goal was to create an article filled with articles, not design an ebook - though the thought had crossed my mind. And if I were to do that, Calibre works well for creating ebooks from web content.
 
-Anyway, for now the resulting HTML file is [here](https://github.com/chrislkeller/nieman-predictions-for-2015/blob/master/index.html), provided Nieman Lab doesn't get upset for me re-appropriating their content.
+Anyway, for now the resulting HTML file(s) from the past two years are in this repo, provided Nieman Lab doesn't get upset for me re-appropriating their content.
 
 The [scraper](https://github.com/chrislkeller/nieman-predictions-for-2015/blob/master/scraper.py) is also here if you're interested in improving it for any reason.
 
