@@ -1,5 +1,5 @@
-Nieman Lab Predictions for Journalism
-======================================
+Annual Nieman Predictions For Journalism
+========================================
 
 As has become tradition, Nieman Lab this year [posted predictions and thoughts](http://www.niemanlab.org/collection/predictions-2015/) from those in and around the news business in an attempt to foreshadown ways the way we report, deliver and present news will change.
 
