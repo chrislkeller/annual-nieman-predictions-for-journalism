@@ -56,6 +56,7 @@ class Scraper(object):
         """ # """
         filename = "_%d_predictions_index.html" % (self.year)
         html_file= open(filename, "w")
+        html_file.write("<title>Nieman Lab Predictions for Journalism %d</title>" % (self.year))
         html_file.write("<h1>Nieman Lab Predictions for Journalism %d</h1>" % (self.year))
         for obj in article_list:
             print "Scraping %s" % (obj["article_headline"])
